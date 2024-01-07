@@ -14,7 +14,7 @@ This is a drawing made completely with HTML5 and CSS, representing a couple admi
 To view the project, simply open the `index.html` file in any modern browser. Make sure you have an internet connection to load fonts and other external resources if necessary.
 
 ```bash
-git clone https://github.com/seu-usuario/casal-lua-cheia.git
+git clone https://github.com/MaquitoGW/Coded-Art
 full moon couple cd
 ```
 
