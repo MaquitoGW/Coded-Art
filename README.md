@@ -15,7 +15,6 @@ To view the project, simply open the `index.html` file in any modern browser. Ma
 
 ```bash
 git clone https://github.com/MaquitoGW/Coded-Art.git
-full moon couple cd
 ```
 
 Open the `index.html` file in your preferred browser.
