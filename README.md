@@ -17,7 +17,7 @@
 
 ### Sobre a Arte
 
-**Arte em Código** é uma arte feita completamente com **HTML** e **CSS**, inspirada em um pedido da minha professora de artes para criar um desenho. Tive a ideia de fazer isso programando, e criei um estilo vetor com dois casais e uma noite estrelada, pois amo esse tipo de cenário. Levei cerca de 5 horas para finalizar o projeto.
+**Coded Art** é uma arte feita completamente com **HTML** e **CSS**, inspirada em um pedido da minha professora de artes para criar um desenho. Tive a ideia de fazer isso programando, e criei um estilo vetor com dois casais e uma noite estrelada, pois amo esse tipo de cenário. Levei cerca de 5 horas para finalizar o projeto.
 
 ### Funcionalidades
 
