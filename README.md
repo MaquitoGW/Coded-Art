@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🎨 Coded Art
 
 <div align="center">
@@ -49,3 +50,31 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ---
 
 <p align="center">© 2025 Maicon Gonçalves Wandermazz</p>
+=======
+# Coded Art
+# Couple Watching the Full Moon
+
+This is a drawing made completely with HTML5 and CSS, representing a couple admiring the full moon. The project was completed in approximately 5 hours, seeking to capture the beauty and serenity of a romantic moment under the moon's glow.
+
+### Technologies Used
+
+- **HTML5:** The design structure was built with HTML5, taking advantage of its semantic capabilities for efficient content organization.
+
+- **CSS:** The drawing style was completely developed with CSS, using advanced properties to manipulate colors, shadows, gradients and transformations that bring the scene to life.
+
+## How to View the Project
+
+To view the project, simply open the `index.html` file in any modern browser. Make sure you have an internet connection to load fonts and other external resources if necessary.
+
+```bash
+git clone https://github.com/MaquitoGW/Coded-Art.git
+```
+
+Open the `index.html` file in your preferred browser.
+
+## License
+
+This project is under the [MIT] license (LICENSE). Please feel free to use, modify and distribute as needed.
+
+We hope this project brings inspiration and beauty to your day, just as the full moon lights up the nights of lovers. Enjoy! 🌕❤️
+>>>>>>> 24e6e441fdf51d1d44ba97d9787e58ec5b020b89
